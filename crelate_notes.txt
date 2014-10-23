@@ -1,0 +1,11 @@
+came out of beta in may 2014
+
+Better service level than office 365 99.99
+
+Runs on mailgun by rackspace
+
+SAAS through Azure
+
+Bloomfield and co, won staffing agency of the year, using crelate
+
+pride on quick response times
